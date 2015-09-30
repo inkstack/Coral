@@ -37,3 +37,7 @@ x64/
 bin
 tmp
 *.sdf
+
+.cproject
+.project
+.settings
